@@ -1,0 +1,89 @@
+#logo1{
+    width: 8%;
+    height: 8%;
+}
+#iconopr{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 15px;
+}
+#cajaform{
+    text-align: center;
+}
+input[type="submit"]{
+    width: 30%;
+    height: 45px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    border-radius: 6px;
+    border-color: rgb(180, 173, 163);
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+input[type="email"],input[type="password"]{
+    width: 28.5%;
+    height: 40px;
+    margin: 7px 20px;
+    padding: 0.5px 10px;
+    border-radius: 6px;
+    border-color: rgb(180, 173, 163);
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+input[type="checkbox"]{
+    width: 10%;
+    height: 35px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    border-radius: 6px;
+    border-color: rgb(180, 173, 163);
+    font-size: 18px;
+    color: white;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+input[type="button"]{
+    width: 30%;
+    height: 45px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    border-radius: 6px;
+    border-color: rgb(180, 173, 163);
+    font-size: 18px;
+    color: white;
+    background-color: rgb(0, 134, 52);
+}
+#checks{
+    margin-right: 50px;
+    padding: 5px 8px;
+    font-size: 18px;
+}
+#captchac{
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+}
+label {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+input[name="goog"]{
+    background-image: url("google1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    padding-left: 10px;
+}
+input[name="appl"]{
+    background-image: url("apple1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    padding-left: 5px;
+}
